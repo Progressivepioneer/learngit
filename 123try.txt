@@ -1,2 +1,2 @@
-we are the champion
+git is a distributioned version control software
 Git is a free software
